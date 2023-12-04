@@ -4,3 +4,5 @@
 [submodule "packages/git-submodule-2"]
 	path = packages/git-submodule-2
 	url = https://github.com/AKclown/git-submodule-2.git
+	active = false
+	ignore = dirty
